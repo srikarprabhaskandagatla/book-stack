@@ -3,7 +3,7 @@ import random
 import threading
 import time
 
-BASE_URL = 'URL_HERE'
+BASE_URL = 'URL'
 
 
 def client_workflow(client_id):
